@@ -2,10 +2,12 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
+import { TrendingComponent } from './trending/trending.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    TrendingComponent
   ],
   imports: [
     BrowserModule

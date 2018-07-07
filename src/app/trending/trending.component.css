@@ -1,0 +1,15 @@
+.fps {
+    position: absolute;
+    bottom: 6px;
+    left: 0;
+    background-color: rgba(128, 255, 0, 0.672);
+    padding: 5px;
+}
+
+canvas {
+    background-color: white;
+}
+
+.main {
+    position: relative;
+}
